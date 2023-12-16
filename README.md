@@ -1,2 +1,2 @@
 # Side-project
-To record my data analysis project and some stuff I am learing
+IMBD2023 全國智慧製造大數據分析競賽
